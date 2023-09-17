@@ -28,3 +28,13 @@ Python Versions Supported: 3.7-3.10
     export LIBRARY_PATH=$(brew --prefix)/lib
     pip install hopsworks
     pip install yfinance
+
+
+
+### Modal
+
+modal token new
+
+modal run feature-pipeline.py
+
+modal 

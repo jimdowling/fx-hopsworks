@@ -1,6 +1,8 @@
 # fx-hopsworks
 FX Exchange Range Ingestion
 
+Python Versions Supported: 3.7-3.10
+
 ## Linux Installation
     pip install hopsworks
 

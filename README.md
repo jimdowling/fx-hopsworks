@@ -31,10 +31,12 @@ Python Versions Supported: 3.7-3.10
 
 
 
-### Modal
+### How to run Modal
 
-modal token new
+    pip install yfinance
 
-modal run feature-pipeline.py
+Then on your command line, run:
 
-modal 
+    modal token new
+    modal run feature-pipeline.py
+    modal deploy feature-pipeline.py 
